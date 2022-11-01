@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Facebook Authentication</string>
+    <string name="facebook_login">FaceBook Login</string>
+    <string name="login">Login</string>
+   <!-- Please User your on Fb Data-->
+    <string name="facebook_app_id" translatable="false">Please Add Your FB APP ID</string>
+    <string name="fb_login_protocol_scheme" translatable="false">fb288289916399656</string>
+</resources>
